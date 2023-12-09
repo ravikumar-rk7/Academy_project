@@ -6,6 +6,10 @@
 body {
     overflow-x: hidden !important;
     height: 100% !important;
+    background-repeat: no-repeat;
+    background-image: url(../../images/student_PNG62550.webp);
+    position: relative;
+    overflow-y: scroll;
 }
 
 .Main_content{
@@ -67,11 +71,11 @@ body section {
 
 .menu li {
     margin-left: 60px;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .button a {
-    /* margin-left: 130%; */
+    margin-left: 90%;
 }
 
 #covername {
